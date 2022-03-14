@@ -39,6 +39,6 @@ We use [GitHub](https://github.com/w3c/devcouncil) to host our agendas, minutes 
 We use [Slack](https://w3ccommunity.slack.com/archives/C01N454UT6X) for asynchronous communication for topics not posted on GitHub, this can include event planning, action items and other various tasks.
 
 ### Remote Meeting
-We have monthly remote meetings on the fourth Thursday of the month (4pm GMT/11am EST/8am PST/12am JST). These meetings will be held via Google Meet or Zoom.
+We have monthly remote meetings on the fourth Thursday of the month (4pm GMT/11am EST/8am PST/12am JST). These meetings will be held via Google Meet or Zoom. These meetings are currently only open for the leadership team while we plan and organise.
 
 
